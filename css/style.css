@@ -789,7 +789,7 @@ button.swiper-pagination-bullet {
   height: 0.9375rem;
   top: 47%;
   right: 1.25rem;
-  background: url("img/main-block/icons/arrow.svg") 0 0 no-repeat;
+  background: url("../img/main-block/icons/arrow.svg") 0 0 no-repeat;
   -webkit-animation: amin 2s infinite;
           animation: amin 2s infinite;
 }
@@ -933,7 +933,7 @@ button.swiper-pagination-bullet {
 }
 
 .location__address::before {
-  content: url("img/destinations/icons/destinations-location-icon.svg");
+  content: url("../img/destinations/icons/destinations-location-icon.svg");
   position: absolute;
   height: 1.5rem;
   width: 1.5rem;
