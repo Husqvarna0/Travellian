@@ -2503,11 +2503,9 @@ button.swiper-pagination-bullet {
 }
 
 @media (any-hover: hover) and (max-width: 61.99875em) {
-  .planers__slide:hover > .planers__image {
-    -webkit-transform: translate(0, 0);
-        -ms-transform: translate(0, 0);
-            transform: translate(0, 0);
-  }
+	.planers__slide:hover > .planers__image {
+		
+	}
 }
 
 @media (max-width: 47.99875em) {
@@ -3937,10 +3935,9 @@ button.swiper-pagination-bullet {
 }
 
 @media (max-width: 991px){
-	.planers__slide:hover > .planers__image {
-		
-	 }
+	
 	 .planers__description{
 		width: 100%;
 	 }
+	
 }
